@@ -1,0 +1,10 @@
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\bin\Debug\SQLProject.dacpac
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\bin\Debug\SQLProject.dll
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\bin\Debug\SQLProject.pdb
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\SQLProject.sqlproj.AssemblyReference.cache
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\SQLProject.dll
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\SQLProject.pdb
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\Model.xml
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\refactor.xml
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\postdeploy.sql
+D:\Course\8 Task\SQLFundamentals\SQLTask\SQLProject\obj\Debug\predeploy.sql
