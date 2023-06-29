@@ -1,5 +1,6 @@
 # SQLFundamentals
 Mentoring Course_Module9
+
 Task 1:
 Create a SQL DB project in VS2019 with the structure of the following tables:
 1. Person
